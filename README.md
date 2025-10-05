@@ -1,9 +1,4 @@
 <!-- PROFILE README Nicolas-Eule -->
-
-<p align="center">
-  <img src="https://i.imgur.com/bxRZh5J.gif" width="800" alt="Digital systems and bioengineering animation"/>
-</p>
-
 <h1 align="center">👋 Hi, I'm Nicolás Garzón!</h1>
 
 <p align="center">
