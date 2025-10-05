@@ -42,17 +42,17 @@
 
 ### 🌟 Featured Projects
 
+🔹 [**Hydraulic System and Reactor Digital Twin**](#)  
+Predictive digital model integrating sensor feedback and ISO-based calibration with a simplified reactor simulation.
+
+🔹 [**PIEZO: Experimental Piezoelectric Sensors (BaTiO₃)**](#)  
+Research project developed with the **Kyma Research Group**, focused on the design, fabrication, and characterization of experimental barium titanate (BaTiO₃) piezoelectric sensors for biomechanical and physiological applications.
+
 🔹 [**Guitar Tuner with ESP32 and INMP441 Microphone**](#)  
 FFT-based system that analyzes guitar string frequencies and provides visual tuning feedback.
 
 🔹 [**FPGA-Based Step Detection System**](#)  
 Custom hardware system using FSR experimental sensors embedded in shoe insoles to capture gait and pressure patterns.
-
-🔹 [**Hydraulic System and Reactor Digital Twin**](#)  
-Predictive digital model integrating sensor feedback and ISO-based calibration with a simplified reactor simulation.
-
-🔹 [**Piezoelectric Sensing Applied to Physiology**](#)  
-Collaborative research project on biomechanical characterization using piezoelectric transducers and physiological signal analysis.
 
 🔹 [**Unbalanced Rotating Shaft Dynamics**](#)  
 Physical simulation and stability analysis using precession and induced oscillation models.
