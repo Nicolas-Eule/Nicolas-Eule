@@ -2,7 +2,7 @@
 <h1 align="center">👋 Hi, I'm Nicolás Garzón!</h1>
 
 <p align="center">
-  <b>Mechatronics Engineer</b> passionate about <b>artificial intelligence, robotics, biomedical instrumentation, and automation systems</b>.<br>
+  <b>Mechatronics Engineer Student</b> passionate about <b>artificial intelligence, robotics, biomedical instrumentation, and automation systems</b>.<br>
   Systems automation, sensor design and integration — all oriented toward developing <b>AI-driven and robotic applications</b> that connect engineering with human well-being.
 </p>
 
