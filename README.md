@@ -3,7 +3,7 @@
 <h1 align="center">👋 Hi, I'm Nicolas Garzón!</h1>
 
 <p align="center">
-  <b>Mechatronics Engineer</b> passionate about <b>artificial intelligence, robotics, biomedical instrumentation, embedded systems, and digital twins</b>.<br>
+  <b>Mechatronics Engineer</b> passionate about <b>artificial intelligence, robotics, biomedical instrumentation, and digital twins</b>.<br>
   I love connecting the physical and digital worlds through applied engineering projects.
 </p>
 
@@ -61,7 +61,7 @@ Physical simulation and stability analysis using precession and induced oscillat
 
 <p align="center">
   <a href="mailto:nicolas.garzon@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/nicolas-garzon"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/nicolas-garz%C3%B3n-acevedo-787238127/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/Nicolas-Eule"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
 </p>
 
