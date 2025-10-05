@@ -18,7 +18,7 @@
   - Dynamics and simulation of unbalanced rotating shafts  
 - 🔭 Currently developing projects on **AI applied to engineering** and **intelligent automation**
 - 🌱 Continuously advancing in control systems, machine learning, and the study of physiology and neurology applied to human body instrumentation.
-- ⚙️ Experienced with: Arduino, ESP32, Python, C++, MATLAB, ROS, SolidWorks, Inventor, Fusion 360, AutoCAD, RobotStudio, Quartus, MPLAB X IDE, FluidSIM, Studio 5000, LabVIEW, Julia
+- ⚙️ Experienced with: Arduino, ESP32, Python, C++, MATLAB, ROS, SolidWorks, Inventor, Fusion 360, AutoCAD, RobotStudio, Quartus, MPLAB X IDE, FluidSIM, Studio 5000
 
 ---
 
