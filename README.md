@@ -70,7 +70,7 @@ Physical simulation and stability analysis using precession and induced oscillat
 
 ---
 
-### 🧩 Quote That Inspires Me
+### 🧩 I think that...
 
 > *“Automation is not just about machines — it’s about extending human capability, merging the precision of engineering with the purpose of life sciences.”*
 
