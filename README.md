@@ -1,6 +1,6 @@
 <!-- PROFILE README Nicolas-Eule -->
 
-<h1 align="center">👋 Hi, I'm Nicolás Garzón!</h1>
+<h1 align="center">👋 Hi, I'm Nicolas Garzón!</h1>
 
 <p align="center">
   <b>Mechatronics Engineer</b> passionate about <b>artificial intelligence, robotics, biomedical instrumentation, embedded systems, and digital twins</b>.<br>
