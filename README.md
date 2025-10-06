@@ -1,5 +1,5 @@
 <!-- PROFILE README — Nicolas-Eule -->
-<h1 align="center">▮ Nicolas Garzón — Mechatronics & AI</h1>
+<h1 align="center">▮ Nicolas Garzón — Mechatronics </h1>
 
 <!-- typing line -->
 <p align="center">
