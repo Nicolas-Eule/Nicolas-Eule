@@ -1,5 +1,5 @@
 <!-- PROFILE README — Nicolas-Eule -->
-<h1 align="center"> Nicolas Garzón — Mechatronics </h1>
+<h1 align="center"> Nicolas Garzón →  Building Intelligent Systems, One Algorithm at a Time </h1>
 
 <!-- typing line -->
 <p align="center">
