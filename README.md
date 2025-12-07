@@ -39,7 +39,7 @@
 
 ---
 
-### 🛠️ Technologies & Toolbelt
+### Technologies & Toolbelt
 <!-- Tip: cada icono abre la docs oficial correspondiente -->
 <p align="center">
   <a href="https://docs.python.org/3/"><img title="Python Docs" alt="Python" src="https://skillicons.dev/icons?i=python"></a>
@@ -120,5 +120,5 @@
 
 ---
 
-### 🧩 I think that...
+### I think that...
 > *“Automation is not just about machines — it’s about extending human capability, merging the precision of engineering with the purpose of life sciences.”*
