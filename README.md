@@ -1,6 +1,8 @@
 <!-- PROFILE README — Nicolas-Eule -->
-<h1 align="center"> Nicolas Garzón →  Building Intelligent Systems, One Algorithm at a Time </h1>
-
+<h1 align="center">
+  Nicolas Garzón Acevedo <br>
+  Building Intelligent Systems, One Algorithm at a Time
+</h1>
 <!-- typing line -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2600&pause=900&color=00E5FF&center=true&vCenter=true&width=980&lines=Robotics+%7C+AI+for+Engineering+%7C+Biomedical+Instrumentation+%7C+Automation" alt="typing">
