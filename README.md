@@ -16,26 +16,26 @@
 
 ---
 
-### 🚀 About Me
-- 🎓 **Mechatronics Engineering student** at **Universidad Nacional de Colombia**
-- 💡 I have worked on projects involving:
+### About Me
+- **Mechatronics Engineering student** at **Universidad Nacional de Colombia**
+- I have worked on projects involving:
   - Piezoelectric sensors and material characterization  
   - Guitar tuner using FFT and ESP32  
   - FPGA-based system for analyzing human footsteps using experimental FSR sensors  
   - Digital twins for industrial and hydraulic systems, including a **basic reactor model**  
   - Dynamics and simulation of unbalanced rotating shafts  
-- 🔭 Currently developing projects on **AI applied to engineering** and **intelligent automation**
-- 🌱 Continuously advancing in control systems, machine learning, and the study of physiology and neurology applied to human body instrumentation.
-- ⚙️ Experienced with: Arduino, ESP32, Python, C++, MATLAB, ROS, SolidWorks, Inventor, Fusion 360, AutoCAD, RobotStudio, Quartus, MPLAB X IDE, FluidSIM, Studio 5000
+- Currently developing projects on **AI applied to engineering** and **intelligent automation**
+- Continuously advancing in control systems, machine learning, and the study of physiology and neurology applied to human body instrumentation.
+- Experienced with: Arduino, ESP32, Python, C++, MATLAB, ROS, SolidWorks, Inventor, Fusion 360, AutoCAD, RobotStudio, Quartus, MPLAB X IDE, FluidSIM, Studio 5000
 
 ---
 
-### 🧠 Areas of Interest
-- 🤖 Robotics and intelligent control  
-- 🧩 Biomedical instrumentation and human physiological systems  
-- ⚙️ Automation and sensor integration  
-- 🌐 Cyber-physical systems and digital twins  
-- 🧬 Bioengineering applications enhanced by artificial intelligence  
+### Areas of Interest
+- Robotics and intelligent control  
+- Biomedical instrumentation and human physiological systems  
+- Automation and sensor integration  
+- Cyber-physical systems and digital twins  
+- Bioengineering applications enhanced by artificial intelligence  
 
 ---
 
