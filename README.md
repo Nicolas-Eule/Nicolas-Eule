@@ -15,7 +15,7 @@
 
 ---
 
-### `> whoami`
+<img src="https://img.shields.io/badge/>>_whoami-0D1117?style=for-the-badge&logo=gnubash&logoColor=00E5FF" alt="whoami" />
 
 Mechatronics engineer at **Universidad Nacional de Colombia**. I build perception and control systems for industrial and biomedical applications: from piezoelectric sensor fabrication and embedded signal processing to AI-driven welding path planning and autonomous mobile robotics. Currently focused on real-time machine vision for unstructured industrial environments.
 
@@ -23,7 +23,7 @@ Also serving as fellowship instructor (Becario Estudiante Docente) at UNAL, teac
 
 ---
 
-### `> ls ./projects`
+<img src="https://img.shields.io/badge/>>_ls_./projects-0D1117?style=for-the-badge&logo=gnubash&logoColor=00E5FF" alt="ls projects" />
 
 > Repositories are private while projects remain under active development within university research groups. Descriptions and tech stacks are listed below; repos will go public as work reaches publication or release milestones.
 
@@ -81,7 +81,7 @@ Also serving as fellowship instructor (Becario Estudiante Docente) at UNAL, teac
 
 ---
 
-### `> cat ./research.log`
+<img src="https://img.shields.io/badge/>>_cat_./research.log-0D1117?style=for-the-badge&logo=gnubash&logoColor=00E5FF" alt="research log" />
 
 ```
 [ACTIVE]  Kyma Research Group ─── Project Leader, PIEZO Project
@@ -101,7 +101,7 @@ Also serving as fellowship instructor (Becario Estudiante Docente) at UNAL, teac
 
 ---
 
-### Technologies & Toolbelt
+<img src="https://img.shields.io/badge/>>_cat_./tech__stack.conf-0D1117?style=for-the-badge&logo=gnubash&logoColor=00E5FF" alt="tech stack" />
 
 <p align="center">
   <a href="https://docs.python.org/3/"><img title="Python Docs" alt="Python" src="https://skillicons.dev/icons?i=python"></a>
@@ -151,7 +151,7 @@ Also serving as fellowship instructor (Becario Estudiante Docente) at UNAL, teac
 
 ---
 
-### `> echo $CONTACT`
+<img src="https://img.shields.io/badge/>>_echo_$CONTACT-0D1117?style=for-the-badge&logo=gnubash&logoColor=00E5FF" alt="contact" />
 
 <p align="center">
   <a href="mailto:jngarzona@unal.edu.co"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
