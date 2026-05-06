@@ -18,11 +18,11 @@
 
 ### About Me
 
-Mechatronics Engineering student at **Universidad Nacional de Colombia**, with a strong focus on intelligent systems, applied artificial intelligence, and engineering instrumentation. My work spans research, academic teaching, and applied development across robotics, biomedical engineering, and industrial automation.
+Mechatronics Engineering student at **Universidad Nacional de Colombia**, with a focus on intelligent systems, applied artificial intelligence, and engineering instrumentation. My work spans research, academic teaching, and applied development across robotics, biomedical engineering, and industrial automation.
 
 I have worked on projects involving:
 - Piezoelectric sensors and material characterization
-- Guitar tuner using FFT and ESP32
+- Real-time signal acquisition and processing system based on ESP32 and digital MEMS microphone instrumentation, applying FFT-based spectral analysis for fundamental frequency extraction — with a guitar tuner as a representative application demonstrating the end-to-end translation of physical acoustic signals into actionable software responses
 - FPGA-based system for analyzing human footsteps using experimental FSR sensors
 - Digital twins for industrial and hydraulic systems, including a basic reactor model
 - Dynamics and simulation of unbalanced rotating shafts, developed in collaboration with [Kuntur](https://github.com/kuntur-un), the aerospace engineering student group affiliated with the IEEE AESS Chapter at UNAL
@@ -155,7 +155,7 @@ Development of artificial intelligence models applied to **machine vision** for 
 
 **PIEZO: Experimental Piezoelectric Sensors (BaTiO₃)** — Research with Kyma Research Group on design, fabrication, and characterization of experimental barium-titanate sensors for biomechanical signals.
 
-**Guitar Tuner with ESP32 and INMP441** — FFT-based system for guitar string frequency analysis with visual feedback.
+**Real-Time Signal Processing System — ESP32 and INMP441** — End-to-end implementation of dynamic systems and signals theory applied to embedded hardware: acoustic signal acquisition via MEMS microphone, FFT-based spectral decomposition for fundamental frequency identification, and software-side response generation. Demonstrated through a guitar tuner application integrating multiple sensing and instrumentation strategies.
 
 **FPGA-Based Step Detection System** — FSR-embedded insoles for gait and pressure mapping on custom hardware.
 
