@@ -1,11 +1,10 @@
 <!-- PROFILE README — Nicolas-Eule -->
 <h1 align="center">
-  Nicolas Garzón Acevedo <br>
-  Building Intelligent Systems, One Algorithm at a Time
+  Nicolás Garzón Acevedo
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2600&pause=900&color=00E5FF&center=true&vCenter=true&width=980&lines=Robotics+%7C+AI+for+Engineering+%7C+Biomedical+Instrumentation+%7C+Automation" alt="typing">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2600&pause=900&color=00E5FF&center=true&vCenter=true&width=980&lines=Robotics+%7C+Machine+Vision+%7C+Biomedical+Instrumentation+%7C+Industrial+Automation" alt="typing">
 </p>
 
 <p align="center">
@@ -16,66 +15,89 @@
 
 ---
 
-### About Me
+### `> whoami`
 
-Mechatronics Engineering student at **Universidad Nacional de Colombia**, with a strong focus on intelligent systems, applied artificial intelligence, and engineering instrumentation. My work spans research, academic teaching, and applied development across robotics, biomedical engineering, and industrial automation.
+Mechatronics engineer at **Universidad Nacional de Colombia**. I build perception and control systems for industrial and biomedical applications: from piezoelectric sensor fabrication and embedded signal processing to AI-driven welding path planning and autonomous mobile robotics. Currently focused on real-time machine vision for unstructured industrial environments.
 
-I have worked on projects involving:
-- Piezoelectric sensors and material characterization
-- Guitar tuner using FFT and ESP32
-- FPGA-based system for analyzing human footsteps using experimental FSR sensors
-- Digital twins for industrial and hydraulic systems, including a basic reactor model
-- Dynamics and simulation of unbalanced rotating shafts
-
-Currently developing **AI models applied to machine vision** for industrial automation and mobile robotics, with a focus on real-time inference and embedded deployment.
-
-Experienced with: Arduino, ESP32, Python, C++, MATLAB, ROS, SolidWorks, Inventor, Fusion 360, AutoCAD, RobotStudio, Quartus, MPLAB X IDE, FluidSIM, Studio 5000
+Also serving as fellowship instructor (Becario Estudiante Docente) at UNAL, teaching additive manufacturing and technical drawing.
 
 ---
 
-### Research & Academic Involvement
+### `> ls ./projects`
 
-**Kyma Research Group — Universidad Nacional de Colombia**
-Project Leader, PIEZO Project
-[kyma-un.github.io/projects/piezo](https://kyma-un.github.io/projects/piezo/)
+> Repositories are private while projects remain under active development within university research groups. Descriptions and tech stacks are listed below; repos will go public as work reaches publication or release milestones.
 
-Leading the design, fabrication, and experimental characterization of barium titanate (BaTiO₃) piezoelectric sensors for biomechanical signal acquisition. The project covers the full development cycle from material synthesis to sensor integration, with applications in biomedical instrumentation and human motion analysis.
+<table>
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>Description</th>
+      <th>Stack</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>PIEZO</strong></td>
+      <td>Design, fabrication, and characterization of BaTiO&#x2083; piezoelectric sensors for biomechanical signal acquisition. Full cycle from material synthesis through controlled sintering to sensor integration for human motion analysis.<br><a href="https://kyma-un.github.io/projects/piezo/">kyma-un.github.io/projects/piezo</a></td>
+      <td><code>Python</code> <code>MATLAB</code> <code>Materials Science</code> <code>Signal Processing</code></td>
+    </tr>
+    <tr>
+      <td><strong>WAAM + AI Path Planning</strong></td>
+      <td>Directed energy deposition system with machine vision. Detects and localizes workpieces or joints in arbitrary orientations, then computes optimal deposition trajectories autonomously. Enables adaptive, non-programmed manufacturing.</td>
+      <td><code>Python</code> <code>OpenCV</code> <code>Deep Learning</code> <code>ROS</code> <code>RobotStudio</code></td>
+    </tr>
+    <tr>
+      <td><strong>Maintenance Robotics</strong></td>
+      <td>Robotic platform for autonomous defect detection and repair in industrial environments. Computer vision identifies damaged surfaces and guides repair interventions without predefined component positioning.</td>
+      <td><code>Python</code> <code>Computer Vision</code> <code>Embedded Systems</code></td>
+    </tr>
+    <tr>
+      <td><strong>RT Signal Processing</strong></td>
+      <td>End-to-end acoustic signal acquisition and FFT-based spectral analysis on ESP32 with INMP441 MEMS microphone. Demonstrated through a real-time guitar tuner application.</td>
+      <td><code>C++</code> <code>ESP32</code> <code>DSP</code> <code>FFT</code></td>
+    </tr>
+    <tr>
+      <td><strong>FPGA Gait Analysis</strong></td>
+      <td>FSR-embedded insoles for footstep detection and plantar pressure mapping, implemented on custom FPGA hardware.</td>
+      <td><code>Verilog</code> <code>Quartus</code> <code>Signal Processing</code> <code>Biomechanics</code></td>
+    </tr>
+    <tr>
+      <td><strong>Hydraulic Digital Twin</strong></td>
+      <td>Predictive digital model integrating real-time sensor feedback and ISO-based calibration for an industrial hydraulic system, coupled with a simplified reactor simulation.</td>
+      <td><code>MATLAB</code> <code>Simulink</code> <code>Digital Twin</code></td>
+    </tr>
+    <tr>
+      <td><strong>Rotating Shaft Dynamics</strong></td>
+      <td>Simulation and stability analysis of unbalanced rotating systems using precession and oscillation models. Collaboration with <a href="https://github.com/kuntur-un">Kuntur</a> (IEEE AESS, UNAL).</td>
+      <td><code>MATLAB</code> <code>Dynamics</code> <code>Vibration Analysis</code></td>
+    </tr>
+    <tr>
+      <td><strong>Abrasive Testing Machine</strong></td>
+      <td>Custom tribological testing system for quantitative evaluation of wear resistance in hard coatings and thermally sprayed surfaces under standardized abrasive conditions.</td>
+      <td><code>Mechanical Design</code> <code>SolidWorks</code> <code>Instrumentation</code></td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
-**Welding and Non-Destructive Testing Research Group — Universidad Nacional de Colombia**
+### `> cat ./research.log`
 
-Active member with participation in two research lines:
+```
+[ACTIVE]  Kyma Research Group ─── Project Leader, PIEZO Project
+          Experimental piezoelectric sensors for biomedical applications
+          https://kyma-un.github.io/projects/piezo/
 
-- **Wire Arc Additive Manufacturing (WAAM)**: Process characterization and optimization of directed energy deposition for metallic components, with focus on geometric precision and microstructural quality.
-- **Abrasive Testing Machine Design**: Development of a tribological testing system for evaluating wear resistance in hard coatings, supporting material qualification under controlled abrasive conditions.
+[ACTIVE]  Welding & NDT Research Group ─── Researcher
+          WAAM with AI path planning | Maintenance robotics | Tribological testing
 
----
+[MEMBER]  Kuntur ─── IEEE AESS Student Chapter, UNAL
+          Rotating machinery dynamics and aerospace system analysis
+          https://github.com/kuntur-un
 
-**Teaching — Universidad Nacional de Colombia, Bogotá**
-Fellowship Instructor (Becario Docente)
-
-Serving as instructor for the following undergraduate courses:
-
-- **Manufacturing Processes II** — Covers advanced machining, forming, and production systems with theoretical and practical components.
-- **Basic Technical Drawing** — Instruction in engineering drawing standards, orthographic projection, and CAD-based documentation.
-
----
-
-### Current Focus
-
-Development of artificial intelligence models applied to **machine vision** for industrial automation and **mobile robotics**. This includes perception pipelines for object detection, scene understanding, and navigation, with an emphasis on integration into real embedded and robotic platforms.
-
----
-
-### Areas of Interest
-
-- Robotics and intelligent control
-- Biomedical instrumentation and human physiological systems
-- Automation and sensor integration
-- Cyber-physical systems and digital twins
-- Machine vision and AI-driven perception
-- Additive manufacturing and advanced materials characterization
+[MEMBER]  KartUN ─── Student Engineering Group
+          Instrumentation, telemetry, and embedded comms for electric kart vehicles
+```
 
 ---
 
@@ -129,21 +151,7 @@ Development of artificial intelligence models applied to **machine vision** for 
 
 ---
 
-### Featured Projects
-
-**Hydraulic System and Reactor Digital Twin** — Predictive digital model integrating sensor feedback and ISO-based calibration with a simplified reactor simulation.
-
-**PIEZO: Experimental Piezoelectric Sensors (BaTiO₃)** — Research with Kyma Research Group on design, fabrication, and characterization of experimental barium-titanate sensors for biomechanical signals.
-
-**Guitar Tuner with ESP32 and INMP441** — FFT-based system for guitar string frequency analysis with visual feedback.
-
-**FPGA-Based Step Detection System** — FSR-embedded insoles for gait and pressure mapping on custom hardware.
-
-**Unbalanced Rotating Shaft Dynamics** — Simulation and stability analysis using precession/oscillation models.
-
----
-
-### Contact
+### `> echo $CONTACT`
 
 <p align="center">
   <a href="mailto:jngarzona@unal.edu.co"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -151,6 +159,6 @@ Development of artificial intelligence models applied to **machine vision** for 
   <a href="https://github.com/Nicolas-Eule"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
----
-
-> *"Automation is not just about machines — it's about extending human capability, merging the precision of engineering with the purpose of life sciences."*
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nicolas-Eule&style=flat-square&color=00E5FF" alt="Profile views">
+</p>
