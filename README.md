@@ -25,7 +25,7 @@ I have worked on projects involving:
 - Guitar tuner using FFT and ESP32
 - FPGA-based system for analyzing human footsteps using experimental FSR sensors
 - Digital twins for industrial and hydraulic systems, including a basic reactor model
-- Dynamics and simulation of unbalanced rotating shafts
+- Dynamics and simulation of unbalanced rotating shafts, developed in collaboration with [Kuntur](https://github.com/kuntur-un), the aerospace engineering student group affiliated with the IEEE AESS Chapter at UNAL
 
 Currently developing **AI models applied to machine vision** for industrial automation and mobile robotics, with a focus on real-time inference and embedded deployment.
 
@@ -45,26 +45,43 @@ Leading the design, fabrication, and experimental characterization of barium tit
 
 **Welding and Non-Destructive Testing Research Group — Universidad Nacional de Colombia**
 
-Active member with participation in two research lines:
+Active member contributing to three interconnected research and development lines within the group:
 
-- **Wire Arc Additive Manufacturing (WAAM)**: Process characterization and optimization of directed energy deposition for metallic components, with focus on geometric precision and microstructural quality.
-- **Abrasive Testing Machine Design**: Development of a tribological testing system for evaluating wear resistance in hard coatings, supporting material qualification under controlled abrasive conditions.
+- **Wire Arc Additive Manufacturing (WAAM) with AI-Driven Path Planning**: Development and process characterization of directed energy deposition for metallic components, with a strong emphasis on geometric precision and microstructural quality. This line integrates artificial intelligence and machine vision to generate automated weld path mappings: the system is capable of detecting and localizing workpieces or joints placed in arbitrary orientations within the workspace, and autonomously computing the optimal deposition trajectories required to weld or repair them. This approach enables adaptive, non-programmed manufacturing suitable for flexible production environments.
+
+- **Maintenance Robotics with Machine Vision**: Design and development of a robotic platform oriented toward autonomous maintenance and repair operations in industrial environments. The system leverages computer vision to identify damaged surfaces, locate defects, and guide repair interventions — including surface preparation and material deposition — without requiring predefined positioning of the target component.
+
+- **Abrasive Testing Machine Design**: Engineering of a custom tribological testing system for the quantitative evaluation of wear resistance in hard coatings and thermally sprayed surfaces. The machine provides controlled abrasive conditions to support material qualification protocols and comparative studies of coating performance under standardized and application-specific scenarios.
 
 ---
 
 **Teaching — Universidad Nacional de Colombia, Bogotá**
-Fellowship Instructor (Becario Docente)
+Fellowship Instructor (Becario Estudiante Docente)
 
 Serving as instructor for the following undergraduate courses:
 
-- **Manufacturing Processes II** — Covers advanced machining, forming, and production systems with theoretical and practical components.
-- **Basic Technical Drawing** — Instruction in engineering drawing standards, orthographic projection, and CAD-based documentation.
+- **Manufacturing Processes II** — This course covers advanced machining, forming, joining, and production systems, with both theoretical and practical components. The section taught focuses specifically on **additive manufacturing**: students are introduced to the principles, technologies, and engineering applications of processes such as material extrusion, powder bed fusion, and directed energy deposition, including an applied perspective on WAAM for metallic parts. The objective is to bridge foundational manufacturing theory with emerging fabrication paradigms relevant to modern industry.
+
+- **Basic Technical Drawing** — Instruction in engineering drawing standards, orthographic and auxiliary projection, section views, tolerancing, and CAD-based technical documentation. The course incorporates tools from the **Autodesk ecosystem**, covering applications relevant to mechanical and mechatronics engineering (SolidWorks, Inventor, Fusion 360, AutoCAD Mechanical), as well as software used in agricultural and civil engineering contexts (AutoCAD Civil 3D, Revit). **Onshape** is also incorporated to promote collaborative design workflows, allowing teams to work simultaneously on parametric models through a fully cloud-based platform.
+
+---
+
+**Kuntur — IEEE AESS Student Branch Chapter, Universidad Nacional de Colombia**
+[github.com/kuntur-un](https://github.com/kuntur-un)
+
+Member of Kuntur, the aerospace engineering student group operating under the IEEE Aerospace and Electronic Systems Society (AESS) chapter at UNAL. Within this group, contributions have focused on the study of rotating system dynamics, including the modeling, simulation, and stability analysis of unbalanced rotating shafts — work relevant to aerospace propulsion systems, turbomachinery, and structural integrity analysis.
+
+---
+
+**KartUN — Student Research Seedbed and Engineering Student Group**
+
+Active member of KartUN, the interdisciplinary student group dedicated to the design, construction, and competitive deployment of electric kart vehicles. Within the team, responsibilities are concentrated in the **instrumentation and telecommunications** subsystems of the vehicles, encompassing the design and integration of onboard sensor arrays, real-time data acquisition systems, telemetry links, and embedded communication architectures. This work involves the selection and calibration of transducers for monitoring speed, acceleration, temperature, and power delivery, as well as the development of the data pipelines that transmit vehicle state information to the pit team for performance analysis and decision-making during events.
 
 ---
 
 ### Current Focus
 
-Development of artificial intelligence models applied to **machine vision** for industrial automation and **mobile robotics**. This includes perception pipelines for object detection, scene understanding, and navigation, with an emphasis on integration into real embedded and robotic platforms.
+Development of artificial intelligence models applied to **machine vision** for industrial automation and **mobile robotics**. This includes the design and training of deep learning-based perception pipelines for object detection, instance segmentation, scene understanding, and spatial reasoning. A key application area is the integration of these models into real embedded and robotic platforms, enabling autonomous decision-making in unstructured industrial environments with minimal human intervention.
 
 ---
 
@@ -76,6 +93,9 @@ Development of artificial intelligence models applied to **machine vision** for 
 - Cyber-physical systems and digital twins
 - Machine vision and AI-driven perception
 - Additive manufacturing and advanced materials characterization
+- Autonomous maintenance robotics and adaptive manufacturing
+- Vehicle instrumentation, telemetry, and embedded systems
+- Aerospace system dynamics and rotating machinery analysis
 
 ---
 
@@ -139,7 +159,7 @@ Development of artificial intelligence models applied to **machine vision** for 
 
 **FPGA-Based Step Detection System** — FSR-embedded insoles for gait and pressure mapping on custom hardware.
 
-**Unbalanced Rotating Shaft Dynamics** — Simulation and stability analysis using precession/oscillation models.
+**Unbalanced Rotating Shaft Dynamics** — Simulation and stability analysis using precession/oscillation models, developed in collaboration with Kuntur (IEEE AESS — UNAL).
 
 ---
 
